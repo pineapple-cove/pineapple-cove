@@ -22,6 +22,20 @@ A simple puzzle game made with Unreal Engine 5.
   - [ ] Magic
   - [ ] Mining
   - [ ] Thieving
+- [ ] Create characters.
+  - [ ] Player
+  - [ ] Pets
+    - [ ] Crabs
+    - [ ] Octopi
+    - [ ] Parrots
+    - [ ] Monkeys
+  - [ ] Enemies
+    - [ ] Pirates
+    - [ ] Skeletons
+    - [ ] Glowing Cave Worm
+    - [ ] Sharks
+    - [ ] Jellyfish
+- [ ] Create a story.
 
 ### 📝 Notes
 
